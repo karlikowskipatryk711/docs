@@ -2,3 +2,4 @@
   "presets": ["next/babel"],
   "plugins": [["styled-components", { "ssr": true }], "@babel/plugin-syntax-top-level-await"]
 }
+https://github.com/LRANUL/docs/blob/ced20bab7d8c317a05823ebe804a51bc741cdad8/.babelrc
